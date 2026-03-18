@@ -42,7 +42,7 @@ const Contact = () => {
               Réservez un appel découverte de 30 minutes pour discuter de vos objectifs RP
             </p>
             <a
-              href="https://tally.so/r/n0jJpy"
+              href="https://taap.it/7NMToA"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-accent w-full text-center block"
