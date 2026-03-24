@@ -22,7 +22,7 @@ const Index = () => {
         <Clients />
         <WhyChoose />
         <Founder />
-        <Pricing />
+        
         <Contact />
       </main>
       <Footer />
