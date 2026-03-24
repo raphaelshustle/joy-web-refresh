@@ -6,7 +6,7 @@ import Methodology from '@/components/Methodology';
 import Clients from '@/components/Clients';
 import WhyChoose from '@/components/WhyChoose';
 import Founder from '@/components/Founder';
-import Pricing from '@/components/Pricing';
+
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 
@@ -22,7 +22,7 @@ const Index = () => {
         <Clients />
         <WhyChoose />
         <Founder />
-        <Pricing />
+        
         <Contact />
       </main>
       <Footer />
