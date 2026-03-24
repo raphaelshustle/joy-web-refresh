@@ -17,7 +17,7 @@ const Founder = () => {
             <div className="grid md:grid-cols-12 gap-8 items-center">
               <div className="md:col-span-3 flex justify-center">
                 <img
-                  src={raphaelImg}
+                  src="/images/raphael.png"
                   alt="Raphaël Sabouraud - Fondateur PressIT Agency"
                   className="w-32 h-32 object-cover rounded-full border-4 border-accent/20"
                   loading="lazy"
