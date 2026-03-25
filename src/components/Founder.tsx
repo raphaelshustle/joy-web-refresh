@@ -1,5 +1,6 @@
 import { Card } from '@/components/ui/card';
 import { Linkedin } from 'lucide-react';
+import founderImg from '@/assets/founder.jpg';
 
 const Founder = () => {
   return (
