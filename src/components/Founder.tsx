@@ -1,5 +1,6 @@
 import { Card } from '@/components/ui/card';
 import { Linkedin } from 'lucide-react';
+import founderImg from '@/assets/founder.jpg';
 
 const Founder = () => {
   return (
@@ -17,7 +18,7 @@ const Founder = () => {
             <div className="grid md:grid-cols-12 gap-8 items-center">
               <div className="md:col-span-3 flex justify-center">
                 <img
-                  src="https://www.pressitagency.com/images/uhcoaxei4hmoydijc4k1.webp"
+                  src={founderImg}
                   alt="Raphaël Sabouraud - Fondateur PressIT Agency"
                   className="w-32 h-32 object-cover rounded-full border-4 border-accent/20"
                   loading="lazy"
