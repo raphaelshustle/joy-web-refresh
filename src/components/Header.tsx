@@ -8,7 +8,6 @@ const Header = () => {
     { label: 'Services', href: '#services' },
     { label: 'Méthode', href: '#methode' },
     { label: 'Clients', href: '#clients' },
-    { label: 'Tarifs', href: '#tarifs' },
   ];
 
   return (
