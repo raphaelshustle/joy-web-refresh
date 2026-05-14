@@ -18,7 +18,7 @@ const Hero = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="https://taap.it/7NMToA"
+            href="https://taap.it/StaAQHd"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-accent text-lg !px-10 !py-4"
