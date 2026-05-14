@@ -74,7 +74,7 @@ const Pricing = () => {
               </div>
 
               <a
-                href="https://taap.it/7NMToA"
+                href="https://taap.it/StaAQHd"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`block text-center rounded-lg font-semibold py-4 transition-all duration-200 ${

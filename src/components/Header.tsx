@@ -28,7 +28,7 @@ const Header = () => {
             </a>
           ))}
           <a
-            href="https://taap.it/7NMToA"
+            href="https://taap.it/StaAQHd"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-accent text-sm !px-6 !py-2.5 rounded-lg"
@@ -59,7 +59,7 @@ const Header = () => {
             </a>
           ))}
           <a
-            href="https://taap.it/7NMToA"
+            href="https://taap.it/StaAQHd"
             target="_blank"
             rel="noopener noreferrer"
             className="block btn-accent text-center text-sm !px-6 !py-2.5 rounded-lg"
