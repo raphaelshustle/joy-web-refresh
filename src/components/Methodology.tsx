@@ -34,7 +34,7 @@ const Methodology = () => {
       <div className="container mx-auto container-padding">
         <div className="text-center mb-16">
           <p className="text-accent font-semibold text-lg mb-4">Notre méthode</p>
-          <h2 className="section-title">4 étapes pour des résultats garantis</h2>
+          <h2 className="section-title">4 étapes pour des résultats concrets</h2>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto">
